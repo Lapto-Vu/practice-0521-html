@@ -6,8 +6,12 @@
 
 @import url("comp/header.css");
 @import url("comp/artist-info.css");
+@import url("comp/feature-btn.css");
+@import url("comp/list.css");
 
-body {
+.body {
   background-color: whitesmoke;
   height: 100vh;
+  align-items: baseline;
+  padding: 20px;
 }
