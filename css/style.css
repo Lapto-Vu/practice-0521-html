@@ -1,0 +1,13 @@
+/* Set Up */
+@import url("setup/feature.css");
+@import url("setup/reset.css");
+
+/* components */
+
+@import url("comp/header.css");
+@import url("comp/artist-info.css");
+
+body {
+  background-color: whitesmoke;
+  height: 100vh;
+}
