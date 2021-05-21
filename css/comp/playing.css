@@ -1,0 +1,27 @@
+.playing {
+  width: 100%;
+  height: 53%;
+  flex-direction: column;
+  justify-content: space-between;
+  padding-top: 35px;
+}
+
+.playing__cover {
+  width: 72%;
+  height: 69%;
+  border-radius: 20px;
+  box-shadow: 0 3px 20px 0 #ffd7be, 0 5px 15px 0 #ffd7be;
+}
+
+.playing__info {
+  flex-direction: column;
+  font-size: 32px;
+  font-weight: bold;
+}
+
+.playing__info > span:nth-child(2) {
+  font-size: 18px;
+  color: var(--grey);
+  font-weight: normal;
+  margin-top: 15px;
+}

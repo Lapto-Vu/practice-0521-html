@@ -1,4 +1,5 @@
 /* Set Up */
+
 @import url("setup/feature.css");
 @import url("setup/reset.css");
 
@@ -8,6 +9,10 @@
 @import url("comp/artist-info.css");
 @import url("comp/feature-btn.css");
 @import url("comp/list.css");
+@import url("comp/play.css");
+@import url("comp/playing.css");
+@import url("comp/bar.css");
+@import url("comp/bottom-bar.css");
 
 .body {
   background-color: whitesmoke;
